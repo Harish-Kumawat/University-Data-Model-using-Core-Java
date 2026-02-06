@@ -47,18 +47,18 @@ com.university │ ├── University.java     // Main class (program executio
 ---
 
 ## 🖥️ Sample Output 
-------- College Details ------- 
-College Name     : Siddhant College of Engineering 
-College Address  : Pune, Maharashtra
-------- Department Details ------- 
-Department Name  : Information Technology 
-HOD Name         : Dr. Mehta
-------- Division Details ------- 
-Division Name    : Division A 
-Class Teacher    : Mr. Sharma
-Student Roll No  : 1 
-Student Name     : Rahul 
-CGPA             : 8.2
+------- College Details -------                
+College Name     : Siddhant College of Engineering    
+College Address  : Pune, Maharashtra                          
+------- Department Details -------               
+Department Name  : Information Technology                 
+HOD Name         : Dr. Mehta                          
+------- Division Details -------                      
+Division Name    : Division A             
+Class Teacher    : Mr. Sharma             
+Student Roll No  : 1               
+Student Name     : Rahul                  
+CGPA             : 8.2                
 
 
 ## 🎯 Purpose of the Project
